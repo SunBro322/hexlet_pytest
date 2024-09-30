@@ -1,2 +1,2 @@
 def reverser(string):
-    return string [::2]
+    return string [::-1]
